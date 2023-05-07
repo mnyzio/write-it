@@ -30,8 +30,8 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: 'Text-editor-custom-name',
-        short_name: 'Text-editor',
+        name: 'Write-it (PWA) Text editor',
+        short_name: 'Write-it',
         description: 'Keep track of your notes!',
         background_color: '#225ca3',
         theme_color: '#225ca3',
