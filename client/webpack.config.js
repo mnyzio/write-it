@@ -32,10 +32,11 @@ module.exports = () => {
         inject: true,
         name: 'Write-it (PWA) Text editor',
         short_name: 'Write-it',
-        description: 'Keep track of your notes!',
+        description: 'Keep track of your notes with JavaScript syntax highlighting!',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: './',
+        id: './',
         publicPath: './',
         icons: [
           {
