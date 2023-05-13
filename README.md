@@ -11,6 +11,7 @@ with or without internet connection that can be retrieved for later use.
   - [Description](#description)
   - [Installation](#installation)
     - [Link to GitHub Repo](#link-to-github-repo)
+    - [Link to deployed application](#link-to-deployed-application)
   - [Usage](#usage)
   - [Mock-up](#mock-up)
     - [Editor](#editor)
@@ -30,6 +31,10 @@ This app can run in browser or be installed in user's operating system by clicki
 ### Link to GitHub Repo
 
 [https://github.com/mnyzio/write-it](https://github.com/mnyzio/write-it)
+
+### Link to deployed application
+
+[https://write-it.herokuapp.com](https://write-it.herokuapp.com)
 
 ## Usage
 
